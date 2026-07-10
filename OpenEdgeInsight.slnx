@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OpenEdgeInsight.Analysis/OpenEdgeInsight.Analysis.csproj" />
+    <Project Path="src/OpenEdgeInsight.Cli/OpenEdgeInsight.Cli.csproj" />
+    <Project Path="src/OpenEdgeInsight.Core/OpenEdgeInsight.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OpenEdgeInsight.Analysis.Tests/OpenEdgeInsight.Analysis.Tests.csproj" />
+    <Project Path="tests/OpenEdgeInsight.Core.Tests/OpenEdgeInsight.Core.Tests.csproj" />
+  </Folder>
+</Solution>
