@@ -1,0 +1,16 @@
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\bin\Debug\net10.0\OpenEdgeInsight.Analysis.deps.json
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\bin\Debug\net10.0\OpenEdgeInsight.Analysis.dll
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\bin\Debug\net10.0\OpenEdgeInsight.Analysis.pdb
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\bin\Debug\net10.0\OpenEdgeInsight.Core.dll
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\bin\Debug\net10.0\OpenEdgeInsight.Core.pdb
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.csproj.AssemblyReference.cache
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.AssemblyInfoInputs.cache
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.AssemblyInfo.cs
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.csproj.CoreCompileInputs.cache
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.sourcelink.json
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdge.F8E26EB4.Up2Date
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.dll
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\refint\OpenEdgeInsight.Analysis.dll
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\OpenEdgeInsight.Analysis.pdb
+C:\OpenEdgeInsight\src\OpenEdgeInsight.Analysis\obj\Debug\net10.0\ref\OpenEdgeInsight.Analysis.dll

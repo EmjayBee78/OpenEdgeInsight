@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OpenEdgeInsight.Analysis/1.0.0": {
+        "dependencies": {
+          "OpenEdgeInsight.Core": "1.0.0"
+        },
+        "runtime": {
+          "OpenEdgeInsight.Analysis.dll": {}
+        }
+      },
+      "OpenEdgeInsight.Core/1.0.0": {
+        "runtime": {
+          "OpenEdgeInsight.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenEdgeInsight.Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenEdgeInsight.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
