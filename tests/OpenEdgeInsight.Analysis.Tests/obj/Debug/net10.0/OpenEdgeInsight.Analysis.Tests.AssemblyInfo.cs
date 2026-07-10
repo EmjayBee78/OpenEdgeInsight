@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenEdgeInsight.Analysis.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb4539ad81af11b7eb0d40b6528fc3fda86e7734")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4de3bcd0b7f85356738a2c1506072f8e4892835")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenEdgeInsight.Analysis.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenEdgeInsight.Analysis.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
